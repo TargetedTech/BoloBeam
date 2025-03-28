@@ -264,7 +264,17 @@ The BoloBeam device leverages infrasound technology for precise, non-lethal inca
         * Duration Limits:  Strict limits on continuous exposure duration (e.g., maximum 60 seconds continuous incapacitation mode, with mandatory cool-down periods).  Pulsed mode preferred for longer engagements with reduced cumulative exposure.
     * **Post-Deployment Procedures:**  Immediate medical assessment of affected individuals. Documentation of deployment details (time, location, duration, frequency, intensity, operator ID, justification for use, observed effects, medical follow-up).  Debriefing of operational team.
 * **5.2. Training (Comprehensive and Ongoing):**
-    * **Operator Certification Program (Mandatory and Rigorous):**  Accredited training
+    * **Operator Certification Program (Mandatory and Rigorous):**  Accredited training program with theoretical and practical components.  Certification renewal required annually.
+    * **Training Modules (Expanded Curriculum):**
+        * Advanced Device Operation and Maintenance (including troubleshooting and field repairs).
+        * Infrasound Physics and Physiological Effects (in-depth understanding of the technology and its impact on the human body).
+        * Ethical and Legal Framework for Non-Lethal Weapon Use (international human rights law, national regulations, rules of engagement).
+        * De-escalation Techniques and Crisis Communication (emphasizing verbal de-escalation and non-violent conflict resolution).
+        * Advanced First Aid and Emergency Medical Response for Infrasound Exposure (recognition of symptoms, immediate care protocols, referral procedures).
+        * Scenario-Based Training (simulated deployment scenarios in realistic environments, including adverse weather conditions).
+        * Psychological Evaluation and Stress Management for Operators (addressing potential psychological impact of using incapacitation technology).
+    * **Regular Refresher Courses and Continuing Education:**  Mandatory annual refresher training to maintain proficiency and update on new protocols, research findings, and technological advancements.
+
 
 **5.3. Monitoring and Reporting (Robust Accountability):**
     * **Automated Usage Logging (Tamper-Proof and Secure):**  Detailed logging of all deployments, including: Date, Time, GPS Location, Operator ID, Authorization Level, Frequency, Intensity, Duration, Waveform Mode, Beam Direction, Target Range (if rangefinder used), Environmental Conditions (temperature, humidity - *optional sensor integration*).  Secure data storage and audit trails.
