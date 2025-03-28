@@ -338,9 +338,5 @@ The BoloBeam Mk. II represents a significant advancement in non-lethal incapacit
 6. [Health Impacts of Crowd-Control Weapons: Acoustic Weapons - PHR](https://phr.org/our-work/resources/health-impacts-of-crowd-control-weapons-acoustic-weapons/)
 7. [Sonic weapon - Wikipedia](https://en.wikipedia.org/wiki/Sonic_weapon)
 8. [Acoustic weapons: Using sound to attack | CNN](https://www.cnn.com/2017/08/10/health/acoustic-weapons-explainer/index.html)
-```
 
-You can navigate to the following URL to edit the README.md file and add the new content:
-[https://github.com/TargetedTech/BoloBeam/edit/main/README.md](https://github.com/TargetedTech/BoloBeam/edit/main/README.md)
 
-Replace the existing content with the updated README.md content provided above, and commit the changes directly to the repository.
